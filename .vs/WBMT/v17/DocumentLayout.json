@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NET\\WBMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\controllers\\usermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\controllers\\usermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\models\\reusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\models\\reusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\controllers\\reusesmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\controllers\\reusesmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\data\\wbmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\data\\wbmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|c:\\net\\wbmt\\wbmt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{811DB4FE-65CD-4854-916F-4EDCF96511ED}|WBMT\\WBMT.csproj|solutionrelative:wbmt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModelsController.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Controllers\\UserModelsController.cs",
+              "RelativeDocumentMoniker": "WBMT\\Controllers\\UserModelsController.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Controllers\\UserModelsController.cs",
+              "RelativeToolTip": "WBMT\\Controllers\\UserModelsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:01:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReUsesModelsController.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Controllers\\ReUsesModelsController.cs",
+              "RelativeDocumentMoniker": "WBMT\\Controllers\\ReUsesModelsController.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Controllers\\ReUsesModelsController.cs",
+              "RelativeToolTip": "WBMT\\Controllers\\ReUsesModelsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:53:30.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReUsersModel.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Models\\ReUsersModel.cs",
+              "RelativeDocumentMoniker": "WBMT\\Models\\ReUsersModel.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Models\\ReUsersModel.cs",
+              "RelativeToolTip": "WBMT\\Models\\ReUsersModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:48:29.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Program.cs",
+              "RelativeDocumentMoniker": "WBMT\\Program.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Program.cs",
+              "RelativeToolTip": "WBMT\\Program.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:34:27.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WBMT\\Models\\UserModel.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Models\\UserModel.cs",
+              "RelativeToolTip": "WBMT\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:25:44.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WBMTContext.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Data\\WBMTContext.cs",
+              "RelativeDocumentMoniker": "WBMT\\Data\\WBMTContext.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Data\\WBMTContext.cs",
+              "RelativeToolTip": "WBMT\\Data\\WBMTContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:09:27.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WBMT\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WBMT\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:24:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\appsettings.json",
+              "RelativeDocumentMoniker": "WBMT\\appsettings.json",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\appsettings.json",
+              "RelativeToolTip": "WBMT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T12:30:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WBMT\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WBMT\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T13:14:05.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WBMT\\WeatherForecast.cs",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\WeatherForecast.cs",
+              "RelativeToolTip": "WBMT\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:14:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\NET\\WBMT\\WBMT\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WBMT\\appsettings.Development.json",
+              "ToolTip": "C:\\NET\\WBMT\\WBMT\\appsettings.Development.json",
+              "RelativeToolTip": "WBMT\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T01:51:10.169Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
